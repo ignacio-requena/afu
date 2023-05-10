@@ -1,0 +1,8 @@
+Quelques informations,
+
+Les points 403 et 404 corresondent au passage d'un portail où j'ai dû dévisser le mât horizontal afin de pouvoir passer. C'est une section d'environ 2m.
+
+Pour les fichiers DAT, j'ai fait l'erreur de ne pas écraser les données précédentes de ce matin, alors qu'il s'agit bien de 2 parcours différents.
+Sur ces fichiers on a donc le parcours du groupe 3 réalisé entre 10h30 et 12h puis celui du groupe 4, réalisé entre 14h et 15h. 
+Il faudra donc aligner les données climatiques et de position uniquement pour ce parcours-ci, débutant au point 401 à 14:20:30.
+Désolé pour cette erreur.
