@@ -1,0 +1,5 @@
+"TOA5","CR1000XSeries","CR1000X","11356","CR1000X.Std.03.02","CPU:Programme_CS_2sec_thermocouple.CR1X","15778","CPIStatus"
+"TIMESTAMP","RECORD","BusLoad","ModuleReportCount","ActiveModules","BuffErr","RxErrMax","TxErrMax","FrameErr","ModuleInfo(1)","ModuleInfo(2)","ModuleInfo(3)","ModuleInfo(4)","ModuleInfo(5)","ModuleInfo(6)"
+"TS","RN","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","",""
+"2023-05-11 12:08:59.081",3,1.3125,1,1,0,0,0,0,"CDM-A116,2676,CDM-A100,1,Active","","","","",""
